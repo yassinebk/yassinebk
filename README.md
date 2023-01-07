@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Belkhadem,</h1>
 
 <h4 align="center">You can call me with my other super cool name firecrackers, to be precise fir3cr4ckers</h3>
-<h3 align="center">A passionate programmer, software engineering student from tunisia</h3>
+<h3 align="center">a software engineering student from tunisia, well that's what I do once in a while, but most of a time I hack stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebk&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebk" /> </p>
 
