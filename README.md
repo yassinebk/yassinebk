@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinebk" alt="yassinebk" /></a> </p>
 
-- 🔭 I’m currently working on **a new unicorn project**
+- 🔭 I’m currently working on **a new hacking project**
 
-- 🌱 I’m currently learning **Computer security**
+- 👨‍💻 All of my projects are available at [https://www.yassinebelkhadem.ninja/](https://www.yassine-belkhadem.tech/)
 
-- 👨‍💻 All of my projects are available at [https://www.yassinebelkhadem.ninja/](https://www.yassinebelkhadem.ninja/)
-
-- 📝 I regularly write articles on [https://www.yassinebelkhadem.ninja/blog](https://www.yassinebelkhadem.ninja/blog)
-
-- 💬 Ask me about **React, Nextjs ,Nestjs**
+- 📝 I regularly write articles on [https://www.yassinebelkhadem.ninja/blog](https://www.yassine-belkhadem.tech/blog) 
 
 - 📫 How to reach me **yassine.belkhadem@insat.ucar.tn**
 
