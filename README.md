@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a research papers**
 
-- 👨‍💻 All of my projects are available at [hPortfolio](https://www.yassine-belkhadem.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.yassine-belkhadem.tech/)
 
 - 📝 I regularly write articles on [Blog website](https://www.yassine-belkhadem.tech/blog) 
 
