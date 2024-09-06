@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinebk" alt="yassinebk" /></a> </p>
 
-- 🔭 I’m currently working on **a research papers**
+- 🔭 I’m currently working on **a research paper**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.yassine-belkhadem.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://fir3cr4kers.xyz/)
 
-- 📝 I regularly write articles on [Blog website](https://www.yassine-belkhadem.tech/blog) 
+- 📝 I regularly write articles on [Blog website](https://fir3cr4kers.xyz/blog) 
 
 - 📫 How to reach me **yassine.belkhadem@insat.ucar.tn**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://www.yassine-belkhadem.tech/assets/YassineBelkhademCV.pdf)
+- 📄 Know about my experiences [Curriculum Vitae](https://fir3cr4kers.xyz/assets/YassineBelkhadem-Resume.pdf)
 
 - ⚡ Fun fact **I forget to take breaks**
 
