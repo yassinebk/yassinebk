@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **a research paper**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://fir3cr4kers.xyz/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yassine-belkhadem.xyz/)
 
 - 📝 I regularly write articles on [Blog website](https://fir3cr4kers.xyz/blog) 
 
 - 📫 How to reach me **yassine.belkhadem@insat.ucar.tn**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://fir3cr4kers.xyz/assets/YassineBelkhadem-Resume.pdf)
+- 📄 Know about my experiences [Curriculum Vitae](https://fir3cr4kers.xyz/)
 
 - ⚡ Fun fact **I forget to take breaks**
 
