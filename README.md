@@ -9,7 +9,7 @@
 | [Website](https://yassine-belkhadem.xyz)     | My portfolio and project showcase       |
 | [Twitter](https://x.com/YBK_Firelights)      | Follow me on Twitter                    |
 | [HackTheBox](https://app.hackthebox.com/profile/805406) | My HackTheBox profile                  |
-| [Zettlekasten](https://github.com/yassinebk/MY-PKM)      | Last project: My PKM repository        |
+| [Zettlekasten](https://github.com/yassinebk/MY-PKM)      | My Personal Knowledge Management 📚        |
 | [Curriculum Vitae](https://www.yassine-belkhadem.xyz/YassineBELKHADEM.pdf) | My Curriculum Vitae _(check below for french version)_ | 
 
 ---
