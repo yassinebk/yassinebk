@@ -1,31 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yassine Belkhadem,</h1>
+> I am a final-year Software Engineering student at INSAT, actively seeking an end-of-study internship. If you think what I do is cool and you’d like to collaborate, feel free to reach out—my links are below.
 
-<h4 align="center">You can call me with my other super cool name firecrackers, to be precise fir3cr4ckers</h3>
-<h3 align="center">A software engineering student from tunisia, well that's what I do once in a while, but most of a time I hack stuff</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebk&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebk" /> </p>
+| **Link**                | **Description**                                  |
+|-------------------------|--------------------------------------------------|
+| [Blog](https://fir3cr4kers.xyz)              | Personal blog where I write regularly   |
+| [Email](mailto:fir3cr4ckers.proton.me)       | Reach me at fir3cr4ckers.proton.me      |
+| [Website](https://yassine-belkhadem.xyz)     | My portfolio and project showcase       |
+| [Twitter](https://x.com/YBK_Firelights)      | Follow me on Twitter                    |
+| [HackTheBox](https://app.hackthebox.com/profile/805406) | My HackTheBox profile                  |
+| [Zettlekasten](https://github.com/yassinebk/MY-PKM)      | Last project: My PKM repository        |
+| [Curriculum Vitae](https://www.yassine-belkhadem.xyz/YassineBELKHADEM.pdf) | My Curriculum Vitae _(check below for french version)_ | 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinebk" alt="yassinebk" /></a> </p>
+---
 
-- 🔭 I’m currently working on **a research paper**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://yassine-belkhadem.xyz/)
-
-- 📝 I regularly write articles on [Blog website](https://fir3cr4kers.xyz/blog) 
-
-- 📫 How to reach me **yassine.belkhadem@insat.ucar.tn**
-
-- 📄 Know about my experiences [Curriculum Vitae](https://fir3cr4kers.xyz/)
-
-- ⚡ Fun fact **I forget to take breaks**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yassine belkhadem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine belkhadem" height="30" width="40" /></a>
-<a href="https://fb.com/yassine belkhadem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine belkhadem" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinebk&show_icons=true&locale=en" alt="yassinebk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebk&" alt="yassinebk" /></p>
-
+- 🔭 **Current Project:** DAST/SAST Automation on steroids _(Not public yet)_
+- 🌐 **Last ProjectL:** A go CLI to generate your resume [genresume](https://github.com/yassinebk/gen-resume) 
+---
