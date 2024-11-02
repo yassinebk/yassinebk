@@ -15,5 +15,5 @@
 ---
 
 - 🔭 **Current Project:** DAST/SAST Automation on steroids _(Not public yet)_
-- 🌐 **Last ProjectL:** A go CLI to generate your resume [genresume](https://github.com/yassinebk/gen-resume) 
+- 🌐 **Last Project:** A go CLI to generate your resume [genresume](https://github.com/yassinebk/gen-resume) 
 ---
