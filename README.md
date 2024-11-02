@@ -4,7 +4,7 @@
 
 | **Link**                | **Description**                                  |
 |-------------------------|--------------------------------------------------|
-| [Blog](https://fir3cr4kers.xyz)              | Personal blog where I write regularly   |
+| [Blog](https://fir3cr4kers.xyz)              | Personal blog where I post regularly   |
 | [Email](mailto:fir3cr4ckers.proton.me)       | Reach me at fir3cr4ckers.proton.me      |
 | [Website](https://yassine-belkhadem.xyz)     | My portfolio and project showcase       |
 | [Twitter](https://x.com/YBK_Firelights)      | Follow me on Twitter                    |
