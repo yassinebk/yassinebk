@@ -1,4 +1,10 @@
-> I am a final-year Software Engineering student at INSAT, actively seeking an end-of-study internship. If you think what I do is cool and you’d like to collaborate, feel free to reach out—my links are below.
+> A full-time hacker securing the world by breaking it. Building crazy stuff along the way. If something I'm doing picked your interest and you want to collaborate, let me know links below 
+
+--- 
+
+> フルタイムのハッカー、世界をハックして守る。途中でクレイジーなものを作ってるよ。何か興味湧いたらコラボしたい、連絡して—リンクは下。
+
+
 
 ---
 
