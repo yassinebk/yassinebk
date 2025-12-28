@@ -20,6 +20,6 @@
 
 ---
 
-- 🔭 **Current Project:** DAST/SAST Automation on steroids _(Not public yet)_
-- 🌐 **Last Project:** A go CLI to generate your resume [genresume](https://github.com/yassinebk/gen-resume) 
+- 🔭 **Current Project:** Automating WAF Bypasses with AI Agents  _(Not public yet)_
+- 🌐 **Last Project:** A discord AI assistant to which you can offload the daily life noise [Lein](https://github.com/yassinebk/lein-digital-assistant) 
 ---
